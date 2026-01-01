@@ -23,8 +23,8 @@ const urbanist = Urbanist({
 });
 
 export const metadata: Metadata = {
-  title: "Andrew Jung @fadestocodes",
-  description: "Software Developer from Vancouver, Canada",
+  title: "Royal K M",
+  description: "Software Developer from Kerala, India",
 };
 
 export default function RootLayout({

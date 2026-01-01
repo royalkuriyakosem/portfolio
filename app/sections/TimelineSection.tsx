@@ -39,8 +39,8 @@ const TimelineSection = () => {
             .to(".ball02, .text01, #text-2020 ", {}, 0.04)
             .to(".ball03, .text02, #text-2022 , #uoft", {}, 0.07)
             .to(".ball04, .text03, #text-2022-july, #fisat", {}, 0.13)
-            .to(".ball06, .text05, #text-2024-dec, #chair, #haircut", {}, 0.2)
-            .to(".ball07, #text-barbering-great, #competition, #pompodour, #combover", {}, 0.23)
+            .to(".ball06, .text04, #text-2024-dec, #chair, #haircut", {}, 0.2)
+            .to(".ball07, .text05, #text-barbering-great, #copetition, #pompodour, #combover", {}, 0.23)
             .to(".ball08, .text06, #text-2025-feb", {}, 0.42)
             .to(".ball09, .text07, #text-2025-mar, #camera-op, #still-1, #still-2, #still-3", {}, 0.54)
             .to(".ball10, .text08, #text-2025-grad", {}, 0.62)
@@ -182,8 +182,8 @@ const TimelineSection = () => {
                 <text className="text01" x="50" y="194.11">2020</text>
                 <text className="text02" x="50" y="394.11">2022</text>
                 <text className="text03" x="50" y="724.11">2022</text>
-                <text className="text04" x="50" y="994.11">2024</text>
-                <text className="text05" x="50" y="1186.31">2024</text>
+                <text className="text04" x="50" y="1186.31">2024</text>
+                <text className="text05" x="50" y="1446.31">2025</text>
                 <text className="text06" x="50" y="1786.31">2025</text>
                 <text className="text07" x="50" y="1986.31">2025</text>
                 <text className="text08" x="50" y="2186.81">2025</text>
@@ -205,7 +205,7 @@ const TimelineSection = () => {
                 <p>Dec: Front-End Intern at Nest Digital  </p>
             </div>
             <div id='text-barbering-great' className='timeline-text absolute top-[50%] left-[43%] md:top-[49%]  md:left-[40%] lg:left-[35%] lg:top-[48%] xl:top-[49%] xl:left-[28%] 2xl:top-[50%] 2xl:left-[40%]'>
-                <p>Maintained a high CGPA (8.71) while gaining practical industry experience</p>
+                <p>CodEdge – EDGE+ 4.0, FISAT</p>
             </div>
             <div id='text-2025-feb' className='timeline-text absolute top-[56%] left-[57%] md:top-[56%]  md:left-[48%] lg:left-[35%] lg:top-[53%] xl:top-[56%] xl:left-[32%] 2xl:top-[67%] 2xl:left-[40%]'>
                 <p>Feb: ICEFOSS Finalist - Presented emergency-alert network project</p>
