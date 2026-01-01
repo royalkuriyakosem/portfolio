@@ -407,7 +407,7 @@ const TechStack = () => {
   }
 
   const openGH = () => {
-    window.open('https://www.github.com/fadestocodes', '_blank')
+    window.open('https://www.github.com/royalkuriyakosem', '_blank')
   }
 
 
